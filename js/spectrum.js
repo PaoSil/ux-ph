@@ -148,7 +148,7 @@ $(window).load(function() {
 
 // Analytics Tracking - DEMO ONLY!
 
-/*(function(i, s, o, g, r, a, m) {
+(function(i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
     i[r] = i[r] || function() {
         (i[r].q = i[r].q || []).push(arguments)
@@ -161,4 +161,4 @@ $(window).load(function() {
 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
 ga('create', 'UA-38417733-23', 'auto');
-ga('send', 'pageview');*/
+ga('send', 'pageview');
