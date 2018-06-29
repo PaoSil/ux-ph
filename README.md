@@ -2,4 +2,4 @@
 
 ## Desktop:
 
-![](assets/img/portada.png)
+![](assets/img/Webp.net-gifmaker.gif)
