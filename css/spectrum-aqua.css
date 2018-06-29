@@ -16,6 +16,10 @@ html {
   height: 100%;
   width: 100%;
 }
+
+header {
+  height: 100vh;
+}
 img {
   -webkit-backface-visibility: hidden;
   width: auto\9;
@@ -25,13 +29,12 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
-section,
-aside {
+section {
   padding: 50px 0;
 }
 @media (min-width: 767px) {
   section {
-    padding: 100px 0;
+    padding: 130px 0;
   }
 }
 .well {
